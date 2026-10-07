@@ -1,6 +1,7 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
+personal note
 
 This synthetic repository supports two workshops:
 
